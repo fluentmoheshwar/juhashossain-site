@@ -1,0 +1,44 @@
+{
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "json.format.enable": true,
+  "javascript.format.enable": true,
+  "editor.formatOnSave": true,
+  "editor.quickSuggestions": {
+    "strings": true,
+    "comments": true,
+    "other": "on"
+  },
+  "editor.snippetSuggestions": "top",
+  "editor.formatOnPaste": true,
+  "editor.tabSize": 2,
+  "cSpell.words": [
+    "Adaytta",
+    "Amarnath",
+    "Biswas",
+    "Clipchamp",
+    "Dipti",
+    "EDAS",
+    "fluentmoheshwar",
+    "Hossain",
+    "Juhas",
+    "Khordo",
+    "Kolaroa",
+    "Moheshwar",
+    "Nikaton",
+    "Photoshop",
+    "Rahela",
+    "Satkhira",
+    "Shishu",
+    "tailwindcss",
+    "Tapu",
+    "webfont"
+  ],
+  "cSpell.ignoreWords": ["deSgjRM2CfLooFl6wNtA3S8txRsxcpDYtQqGl8WRMVo"],
+  "files.eol": "\n",
+  "files.associations": {
+    "*.css": "tailwindcss"
+  }
+}

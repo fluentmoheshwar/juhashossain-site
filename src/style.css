@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .section-header {
+    @apply my-5 text-center text-xl underline sm:text-4xl;
+  }
+  /* Icon Size */
+  li .bi::before,
+  li .material-symbols-outlined {
+    font-size: 16px;
+  }
+  /* Navbar */
+  nav ul li a:hover {
+    @apply text-sky-600 shadow-sky-100 drop-shadow-2xl;
+  }
+}
+
+@layer utilities {
+  .active {
+    @apply text-sky-600;
+  }
+}
